@@ -1,0 +1,7 @@
+appId: com.xdacom.iexpress
+productName: 全能发
+directories:
+  output: release
+win:
+  target: nsis
+  icon: ./logo.ico
