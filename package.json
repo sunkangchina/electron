@@ -1,7 +1,7 @@
 {
-  "name": "iexpress",
-  "productName": "iexpress",
-  "description": "iexpress",
+  "name": "electron_app",
+  "productName": "electron_app",
+  "description": "electron_app",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
