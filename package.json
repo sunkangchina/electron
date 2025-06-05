@@ -1,7 +1,7 @@
 {
-  "name": "electron_app",
-  "productName": "electron_app",
-  "description": "electron_app",
+  "name": "iexpress",
+  "productName": "iexpress",
+  "description": "iexpress",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
@@ -18,7 +18,8 @@
     "electron-print": "^1.0.2",
     "electron-titlebar": "^0.0.3",
     "electron-updater": "^6.1.7",
-    "pdf-to-printer": "^5.6.0"
+    "pdf-to-printer": "^5.6.0",
+    "vue-cli-plugin-electron-builder": "3.0.0-alpha.4"
   },
   "devDependencies": {
     "electron": "26.2.2",
