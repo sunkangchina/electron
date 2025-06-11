@@ -68,7 +68,9 @@ function createWindow() {
 
 // ==================== 快捷键管理 ====================
 function registerShortcut() {
-  globalShortcut.register('F5', () => win?.reload());
+  globalShortcut.register('F5', () => {
+    return false;
+  });
 }
 function unregisterShortcut() {
   globalShortcut.unregister('F5');
